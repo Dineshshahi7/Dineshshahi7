@@ -1,7 +1,7 @@
 <!-- 🔥 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dinesh &fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dinesh&fontSize=50"/>
 </p>
 
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
