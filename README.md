@@ -1,23 +1,23 @@
 <!-- 🔥 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dinesh&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dinesh%20Shahi&fontSize=50"/>
 </p>
 
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">Data Science Enthusiast | Machine Learning Practitioner | Python Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Dineshshahi7&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔍 Passionate about Data Science & AI
-* 📊 Love working with real-world datasets
-* 🤖 Exploring Machine Learning & Deep Learning
-* 🚀 Building practical projects for portfolio
+* 🔍 Passionate about Data Science & AI  
+* 📊 Love working with real-world datasets  
+* 🤖 Exploring Machine Learning & Deep Learning  
+* 🚀 Building practical projects for my portfolio  
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 🤖 Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
@@ -50,35 +50,32 @@
 ## 🚀 Projects
 
 ### 🔹 Customer Churn Prediction
-
-* ML model to predict customer churn
-* Data preprocessing + feature engineering
+- ML model to predict customer churn  
+- Data preprocessing + feature engineering  
 
 ### 🔹 Movie Recommendation System
-
-* Content-based recommendation system
-* Suggests movies based on similarity
+- Content-based recommendation system  
+- Suggests movies based on similarity  
 
 ### 🔹 Customer Personality Analysis
-
-* Data analysis + Power BI dashboard
-* Marketing insights
+- Data analysis + Power BI dashboard  
+- Marketing insights  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineshshahi7&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshshahi7&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-* 📧 Email: [your_email@example.com](mailto:your_email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/your-linkedin-username  
+* 📧 Email: your_email@example.com  
 
 ---
 
