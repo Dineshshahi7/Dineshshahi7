@@ -74,8 +74,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin-username  
-* 📧 Email: your_email@example.com  
+* 💼 LinkedIn: https://www.linkedin.com/in/dineshshahi7/  
+* 📧 Email: dineshshahi4301@gmail.com 
 
 ---
 
