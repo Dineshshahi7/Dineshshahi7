@@ -1,30 +1,38 @@
-# 👋 Hi, I'm Dinesh
+<!-- 🔥 HEADER -->
 
-🎓 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 💻 Python Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dinesh&fontSize=50"/>
+</p>
+
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔍 Passionate about solving real-world problems using data
-* 📊 Skilled in Data Analysis, Machine Learning & Visualization
-* 🧠 Currently learning advanced ML & backend development
-* 🛠️ Love building projects that are practical and impactful
+* 🔍 Passionate about Data Science & AI
+* 📊 Love working with real-world datasets
+* 🤖 Exploring Machine Learning & Deep Learning
+* 🚀 Building practical projects for portfolio
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack
 
-### 🤖 AI / Machine Learning
+### 🤖 Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
 
 ### 📊 Data Visualization
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### 💻 Programming
@@ -34,33 +42,36 @@
 
 ### ⚙️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
 ### 🔹 Customer Churn Prediction
 
-* Built a machine learning model to predict customer churn
-* Used data preprocessing, feature engineering & classification algorithms
+* ML model to predict customer churn
+* Data preprocessing + feature engineering
 
 ### 🔹 Movie Recommendation System
 
 * Content-based recommendation system
-* Suggested movies based on user preferences
+* Suggests movies based on similarity
 
 ### 🔹 Customer Personality Analysis
 
-* Data analysis project using marketing data
-* Built insights and dashboards using Power BI
+* Data analysis + Power BI dashboard
+* Marketing insights
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -73,6 +84,6 @@
 
 ## 💡 Quote
 
-> "Solve problems not because they’re easy, but because they help you grow."
+> “Focus on building, not just learning.”
 
 ---
