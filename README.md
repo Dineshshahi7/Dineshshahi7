@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dinesh%20Shahi&fontSize=50"/>
 </p>
 
-<h3 align="center">Data Science Enthusiast | Machine Learning Practitioner | Python Developer</h3>
+<h3 align="center"> Data Analyst | Data Science Enthusiast | Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dineshshahi7&style=for-the-badge"/>
